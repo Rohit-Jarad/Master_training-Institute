@@ -17,7 +17,7 @@ CSS
 **Installation**
 To view the project locally:
 
-Clone the repository: git clone https://github.com/Rohit-Jarad/MASTER_TRAINING-INSTITUTE.git
+Clone the repository: git clone https://github.com/Rohit-Jarad/Master_training-Institute.git
 Open the index.html file in your web browser.
 
 **Usage**
