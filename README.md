@@ -1,4 +1,4 @@
-## **MASTER-TRAINING-INSTITUTE**
+## **MASTER_TRAINING-INSTITUTE**
 
 This repository contains a website for the MASTER-TRAINING-INSTITUTE, a training institute offering IT courses such as Data Science, Digital Marketing, and Java. The site is built using HTML and CSS.
 
@@ -17,7 +17,7 @@ CSS
 **Installation**
 To view the project locally:
 
-Clone the repository: git clone https://github.com/Rohit-Jarad/MASTER-TRAINING-INSTITUTE.git
+Clone the repository: git clone https://github.com/Rohit-Jarad/MASTER_TRAINING-INSTITUTE.git
 Open the index.html file in your web browser.
 
 **Usage**
