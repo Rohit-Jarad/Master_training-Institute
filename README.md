@@ -1,4 +1,4 @@
-MASTER-TRAINING-INSTITUTE
+#MASTER-TRAINING-INSTITUTE
 Welcome to the MASTER-TRAINING-INSTITUTE repository! This project is a web-based representation of a training institute specializing in IT courses.
 
 Description
@@ -14,7 +14,7 @@ CSS: Styling and layout.
 Installation
 To view the project locally:
 
-Clone the repository: git clone https://github.com/yourusername/MASTER-TRAINING-INSTITUTE.git
+Clone the repository: git clone https://github.com/Rohit-Jarad/MASTER-TRAINING-INSTITUTE.git
 Open the index.html file in your preferred web browser.
 Usage
 Browse the website to explore different IT courses and learn more about the institute’s offerings. The website is designed to be user-friendly and informative.
