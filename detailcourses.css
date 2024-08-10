@@ -1,0 +1,17 @@
+.detailcourses{
+    text-align: center;
+    margin-top: 60px;
+}
+.detailcourses h1{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    margin: 20px;
+}
+.detailcourses p{
+    font-size: 30px;
+    font-family: monospace;
+    color: black;
+    margin: 10px;
+    letter-spacing: -2px;
+}

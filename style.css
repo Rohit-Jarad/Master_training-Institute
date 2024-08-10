@@ -1,0 +1,259 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+nav{
+    height: 200px;
+    width: auto;
+    background-color: white;
+}
+.navcontact{
+    height: 50px;
+    background-color: black;
+}
+.navcontact h2{
+    color: white;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 100px;
+    font-family: sans-serif;
+    padding-top:5px ;
+    
+}
+.navlogo img{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    border-radius: 50%;
+    border: 2px solid orangered;
+}
+.navlogo h1{
+    position: absolute;
+    top: 70px;
+    left: 150px;
+    font-size: 50px;
+    color: black;
+}
+
+.navlogo h4{
+    position: absolute;
+    top: 120px;
+    left: 150px;
+    font-size: 20px;
+    
+}
+.navlogo ul{
+    float: right;
+    
+}
+.navlogo li{
+    display: inline-block;
+    margin: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 2px 2px 10px black ;
+    
+} 
+.navlogo li a{
+   text-decoration: none;
+
+}
+.navlogo li:hover{
+    background-color: yellow;
+}
+.navbar marquee{
+    margin-top: 0px;
+    background-color: black;
+    color: white;
+    height: 5px;
+    padding: 7px;
+    font-size: 20px;
+    padding-bottom: 20px;
+
+    
+}
+main img{
+    margin-top:30px;
+
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.founders{
+
+    display: flex;
+    margin: 30px;
+    padding: 50px;
+}
+.founders img{
+    height: 300px;
+    width: 300px;
+    margin: 40px;
+   
+  
+}
+.founders img:hover{
+    border: 2px solid silver;
+}
+.founders h2,h3{
+    margin-left: 20px;
+    text-align: center;
+    width:300px ;
+    
+        
+}
+.highlight h1{
+    
+    text-align: center;
+    
+}
+.highlight p{
+    text-align: center;
+    font-size: 20px;
+    margin-top:10px ;
+
+}
+.placement h1{
+      margin-top: 20px;
+      text-align: center;
+}
+.placement h2{
+    margin-top: 5px;
+   text-align: center;
+   color: red;
+}
+#one{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    margin-left:240px;
+
+}
+
+#two{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    margin-left:240px;
+}
+
+.studentsays h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 40px;
+    
+}
+.studentsays div{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    margin-left: 40px;
+    padding-left: 70px;
+    
+    
+}
+.studentsays img{
+    border-radius: 0px;
+    box-shadow:5px 5px 10px black ;
+}
+.studentsays p,h3{
+    background-color: white;
+    padding: 10px;
+    box-shadow:10px 10px 10px grey ;
+    text-align: center;
+    
+    
+    
+}
+.studentsays img:hover{
+    border: 2px solid silver;
+
+
+}
+.studentsays h3{
+    transform: translateX(-20px);
+    background-color: orangered;
+    width: 280px;
+    border-bottom-right-radius:10px ;
+    border-bottom-left-radius:10px ;
+
+}
+
+#buildname{
+    font-size: 30px;
+    font-family: cursive;
+    margin: 50px;
+    text-align: center;
+    background-color: beige;
+    box-shadow: 10px 10px 10px 10px silver;    
+}
+#buildname::first-letter{
+    color: red;
+    
+}
+footer{
+    margin-top: 30px;
+    height: 300px;
+    width: 100%;
+    background-color: black;
+}
+
+.enquiryform{
+    padding-left: 400px;
+    margin: 10px;
+    color: white;
+    padding-top: 40px;
+    display: flex;
+
+}
+.enquiryform h1{
+    padding-left: 100px;
+    padding-top: 10px;
+    margin-bottom: 10px
+    
+    
+}
+.enquiryform label{
+    font-size: 30px;
+
+}
+
+.enquiryform input{
+    height: 30px;
+    width: 200px;
+    margin-left: 40px;
+}
+.enquiryform select{
+    height: 30px;
+    width: 200px;
+    margin-left: 75px;
+}
+
+.socialmedia a{
+   float: right;
+   margin-right: 50px;
+   margin-top: 0px;
+   transform: translate(-100px,-150px);
+   font-size: 30px;
+   
+}
+
+form button{
+    height: 40px;
+    width: 70px;
+    margin-top: 10px;
+    color: black;
+    background-color: orangered;
+    border: 2px solid black;
+}
+
+    
+
+
