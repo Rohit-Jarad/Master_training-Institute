@@ -1,4 +1,4 @@
-##**MASTER-TRAINING-INSTITUTE**
+## **MASTER-TRAINING-INSTITUTE**
 
 This repository contains a website for the MASTER-TRAINING-INSTITUTE, a training institute offering IT courses such as Data Science, Digital Marketing, and Java. The site is built using HTML and CSS.
 
